@@ -1,0 +1,21 @@
+{
+  "Header": {
+    "Title": {
+      "Home": "Home",
+      "Information": "Information",
+      "About": "About Us",
+      "Contact": "Contact",
+      "Apply": "Apply",
+      "CV": "CV"
+    }
+  },
+  "Footer": {
+    "des": "VietHope is a 501(c)(3) non-profit organization that provides scholarships to underprivileged students in Vietnam.",
+    "title-location": "Location",
+    "title-connect": "Connect",
+    "title-map": "Map",
+    "title-button": "Contact Us",
+    "US": "USA",
+    "Vietnam": "Vietnam"
+  }
+}

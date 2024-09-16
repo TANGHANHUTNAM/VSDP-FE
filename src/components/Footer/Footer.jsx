@@ -1,12 +1,12 @@
-import BodyLayout from "../../layouts/BodyLayout";
+import FooterContent from "./FooterContent";
+import FooterCopyRight from "./FooterCopyRight";
 
 const Footer = () => {
   return (
-    <BodyLayout>
-      <div className="grid grid-cols-3">
-        <div></div>
-      </div>
-    </BodyLayout>
+    <>
+      <FooterContent />
+      <FooterCopyRight />
+    </>
   );
 };
 

@@ -1,6 +1,6 @@
-const BodyLayout = ({ children }) => {
+const BodyLayout = ({ color, children, other }) => {
   return (
-    <div className="bg-white px-8">
+    <div className={`${color} px-8 ${other}`}>
       <div className="mx-auto max-w-screen-xl">{children}</div>
     </div>
   );

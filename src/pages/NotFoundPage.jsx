@@ -1,6 +1,7 @@
 import { Button, Result } from "antd";
 import { Link } from "react-router-dom";
 import { useDynamicTitle, useTopPage } from "../hooks";
+
 const NotFoundPage = () => {
   useDynamicTitle("Not Found");
   useTopPage();

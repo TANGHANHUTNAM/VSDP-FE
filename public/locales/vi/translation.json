@@ -1,0 +1,21 @@
+{
+  "Header": {
+    "Title": {
+      "Home": "Trang chủ",
+      "Information": "Thông tin",
+      "About": "Giới thiệu",
+      "Contact": "Liên hệ",
+      "Apply": "Nộp đơn",
+      "CV": "Hồ sơ"
+    }
+  },
+  "Footer": {
+    "des": "VietHope là một tổ chức phi lợi nhuận 501(c)(3) cung cấp học bổng cho các học sinh có hoàn cảnh khó khăn ở Việt Nam.",
+    "title-location": "Địa điểm",
+    "title-connect": "Kết nối",
+    "title-map": "Bản đồ",
+    "title-button": "Liên hệ với chúng tôi",
+    "US": "Hoa Kỳ",
+    "Vietnam": "Việt Nam"
+  }
+}

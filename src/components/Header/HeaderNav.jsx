@@ -5,8 +5,9 @@ import { FaRegHandPointRight } from "react-icons/fa";
 import "./HeaderNav.css";
 import { useState } from "react";
 import { IoMdClose } from "react-icons/io";
-
+import { useTranslation } from "react-i18next";
 const HeaderNav = () => {
+  const { t } = useTranslation();
   const [open, setOpen] = useState(false);
   const handleToggle = () => {
     setOpen(!open);
@@ -27,19 +28,19 @@ const HeaderNav = () => {
           </span>
         </Link>
         {/* NavLink */}
-        <div className="h hidden flex-row items-center text-lg font-bold text-bgVH md:flex md:space-x-8">
+        <div className="h hidden flex-row items-center text-lg font-bold text-bgVH md:flex md:space-x-7">
           <NavLink
             className="navbar-link duration-200 hover:text-green-400"
             to="/"
           >
-            Trang chủ
+            {t("Header.Title.Home")}
           </NavLink>
 
           <NavLink
             className="navbar-link group cursor-pointer duration-300 hover:text-green-400"
             to="/informations"
           >
-            Thông tin
+            {t("Header.Title.Information")}
             <div className="hidden group-hover:md:block"></div>
           </NavLink>
 
@@ -47,21 +48,21 @@ const HeaderNav = () => {
             className="navbar-link duration-200 hover:text-green-400"
             to="/about-us"
           >
-            Giới thiệu
+            {t("Header.Title.About")}
           </NavLink>
 
           <NavLink
             className="navbar-link duration-200 hover:text-green-400"
             to="/contact-us"
           >
-            Liên hệ
+            {t("Header.Title.Contact")}
           </NavLink>
 
           <NavLink
             className="navbar-link duration-200 hover:text-green-400"
             to="/cv"
           >
-            Hồ sơ
+            {t("Header.Title.CV")}
           </NavLink>
         </div>
         <div className="flex gap-1">
@@ -72,7 +73,7 @@ const HeaderNav = () => {
               className="button-apply rounded-md border-b-4 border-r-4 border-solid border-black/20 bg-bgVH px-4 py-2 text-center text-sm font-medium text-white shadow-xl hover:bg-green-400"
             >
               <FaRegHandPointRight className="mr-2 inline-block h-4 w-4" />
-              Nộp đơn
+              {t("Header.Title.Apply")}
             </NavLink>
           </div>
           {/* Button Menu */}
@@ -90,8 +91,8 @@ const HeaderNav = () => {
 
         {/* Mobile Nav */}
         <div
-          className={`absolute left-0 top-full z-50 min-h-screen bg-black/80 py-20 duration-500 md:hidden ${
-            open ? "w-full" : "-left-full w-0"
+          className={`absolute left-0 top-full z-50 min-h-screen overflow-hidden bg-black/80 py-20 duration-500 md:hidden ${
+            open ? "w-full" : "w-0"
           }`}
         >
           <div className="flex flex-col items-center gap-2 space-y-4 p-4 text-lg font-bold text-bgVH md:mt-0 md:flex-row md:gap-0 md:space-x-8 md:border-0 md:p-0">
@@ -99,35 +100,35 @@ const HeaderNav = () => {
               className="navbar-link duration-200 hover:text-green-400"
               to="/"
             >
-              Trang chủ
+              {t("Header.Title.Home")}
             </NavLink>
 
             <NavLink
               className="navbar-link group cursor-pointer duration-300 hover:text-green-400"
               to="/informations"
             >
-              Thông tin
+              {t("Header.Title.Information")}
             </NavLink>
 
             <NavLink
               className="navbar-link duration-200 hover:text-green-400"
               to="/about-us"
             >
-              Giới thiệu
+              {t("Header.Title.About")}
             </NavLink>
 
             <NavLink
               className="navbar-link duration-200 hover:text-green-400"
               to="/contact-us"
             >
-              Liên hệ
+              {t("Header.Title.Contact")}
             </NavLink>
 
             <NavLink
               className="navbar-link duration-200 hover:text-green-400"
               to="/cv"
             >
-              Hồ sơ
+              {t("Header.Title.CV")}
             </NavLink>
           </div>
         </div>

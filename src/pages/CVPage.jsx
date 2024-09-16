@@ -1,7 +1,9 @@
 import { useDynamicTitle, useTopPage } from "../hooks";
+import { useTranslation } from "react-i18next";
 
 const CVPage = () => {
-  useDynamicTitle("Hồ sơ");
+  const { t } = useTranslation();
+  useDynamicTitle(t("Header.Title.CV"));
   useTopPage();
   return (
     <div>

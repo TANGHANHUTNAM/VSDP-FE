@@ -1,9 +1,11 @@
 import CollapseInfo from "../components/Information/CollapseInfo";
 import { useDynamicTitle, useTopPage } from "../hooks";
 import BodyLayout from "../layouts/BodyLayout";
+import { useTranslation } from "react-i18next";
 
 const InformationPage = () => {
-  useDynamicTitle("Thông tin");
+  const { t } = useTranslation();
+  useDynamicTitle(t("Header.Title.Information"));
   useTopPage();
   return (
     <BodyLayout>

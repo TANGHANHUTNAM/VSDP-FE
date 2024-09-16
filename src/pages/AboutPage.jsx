@@ -1,7 +1,8 @@
 import { useDynamicTitle, useTopPage } from "../hooks";
-
+import { useTranslation } from "react-i18next";
 const AboutPage = () => {
-  useDynamicTitle("Giới thiệu");
+  const { t } = useTranslation();
+  useDynamicTitle(t("Header.Title.About"));
   useTopPage();
   return (
     <div>
