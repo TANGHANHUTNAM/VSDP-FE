@@ -20,37 +20,37 @@ const CarouselComponent = () => (
     }}
   >
     <Carousel
-      ar
       autoplay
+      effect="fade"
       autoplaySpeed={3000}
       arrows
       infinite={true}
-      className=""
+      speed={2000}
     >
       <img
         src={vsdp1}
         alt="Image 1"
-        className="w-full object-cover h-[500px]"
+        className="h-[500px] w-full object-cover"
       />
       <img
         src={vsdp2}
         alt="Image 2"
-        className="w-full object-cover h-[500px]"
+        className="h-[500px] w-full object-cover"
       />
       <img
         src={vsdp3}
         alt="Image 3"
-        className="w-full object-cover h-[500px]"
+        className="h-[500px] w-full object-cover"
       />
       <img
         src={vsdp4}
         alt="Image 4"
-        className="w-full object-cover h-[500px]"
+        className="h-[500px] w-full object-cover"
       />
       <img
         src={vsdp5}
         alt="Image 5"
-        className="w-full object-cover h-[500px]"
+        className="h-[500px] w-full object-cover"
       />
     </Carousel>
   </ConfigProvider>
