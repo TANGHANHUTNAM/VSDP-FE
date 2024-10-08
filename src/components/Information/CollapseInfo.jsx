@@ -5,8 +5,11 @@ const text = `
   it can be found as a welcome guest in many households across the world.
 `;
 const CollapseInfo = () => {
+
+
+
   const items = [
-    {
+    { 
       key: "1",
       label: "This is panel header 1",
       children: <p>{text}</p>,

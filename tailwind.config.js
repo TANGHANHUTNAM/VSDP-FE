@@ -5,8 +5,11 @@ export default {
     extend: {
       colors: {
         bgVH: "#00BDD4",
+        textVH:"#4e8221",
       },
     },
   },
-  plugins: [],
+  
+  plugins :[],
+  
 };
