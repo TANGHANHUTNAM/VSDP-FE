@@ -20,7 +20,7 @@ const Criteria = ({textCss}) =>{
                 <h3 className="py-5 font-bold text-lg ">II. TIÊU CHÍ XÉT TIẾP HỌC BỔNG USP VÀO NĂM THỨ HAI </h3>
                 <p className="pl-6">Để nhận được học bổng USP trị giá <b>200 USD/suất</b> ở năm 2 đại học các bạn sinh viên phải đạt <b>tối thiểu 2 trong 3 tiêu chí (tiêu chí 1 bắt buộc)</b> dưới đây:</p>
               
-                <h4 className="pt-8 pb-3 font-bold pl-6">1.ĐIỀU KIỆN BẮT BUỘC</h4>  
+                <h4 className="pt-8 pb-3 font-bold pl-6">1. ĐIỀU KIỆN BẮT BUỘC</h4>  
                 <div className="pl-10"> 
               
                     <p className="">{" "} <b>Chương trình Phát triển Thế hệ Trẻ </b>(Youth Development Program - YDP - Summit) là chương trình đặc biệt quan trọng và là dấu ấn riêng mà VietHope cung cấp cho sinh viên nhận học bổng 
@@ -44,7 +44,7 @@ const Criteria = ({textCss}) =>{
                     </p>
                 </div>
 
-                <h4 className="pt-8 pb-3 font-bold pl-6">2.ĐIỀU KIỆN VỀ HOẠT ĐỘNG CỘNG ĐỒNG</h4>
+                <h4 className="pt-8 pb-3 font-bold pl-6">2. ĐIỀU KIỆN VỀ HOẠT ĐỘNG CỘNG ĐỒNG</h4>
                 <div className="pl-10">
                     <p>
                     Sinh viên nhận học bổng của VietHope phải tham gia ít nhất 1 hoạt động do VietHope tổ chức hoặc hoạt động giúp ích cộng đồng. 
@@ -62,7 +62,7 @@ const Criteria = ({textCss}) =>{
                     </ul>
                 </div>  
 
-                <h4 className="pt-8 pb-3 font-bold pl-6">3.ĐIỀU KIỆN VỀ HỌC LỰC</h4>
+                <h4 className="pt-8 pb-3 font-bold pl-6">3. ĐIỀU KIỆN VỀ HỌC LỰC</h4>
                 <div className="pl-10">
                     <p>Điểm GPA năm nhất quy đổi theo hệ số từng trường đạt từ loại khá trở lên. 
                         Các bạn phải nộp ảnh scan Bảng điểm có xác nhận dấu mộc đỏ của trường để tiến hành xét duyệt.</p>
