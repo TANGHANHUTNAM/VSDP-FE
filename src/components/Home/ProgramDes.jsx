@@ -98,6 +98,7 @@ const ProgramDes = () => {
                   <FaCheck />
                 </td>
               </tr>
+
               <tr>
                 <td className="text-left">Chương trình Cố vấn (MP)</td>
                 <td className="pl-4"></td>
@@ -111,6 +112,7 @@ const ProgramDes = () => {
               </tr>
             </tbody>
           </table>
+          
           <p className="my-2 text-lg font-medium uppercase">
             CÁC CHƯƠNG TRÌNH TRONG VSDP
           </p>
