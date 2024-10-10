@@ -4,7 +4,7 @@ const ProgramDes = () => {
   return (
     <BodyLayout>
       <div className="collap-info py-10">
-        <div className="name-program text-center text-5xl font-bold uppercase text-black/75">
+        <div className="name-program text-center text-xl font-bold uppercase text-black/75 md:text-5xl">
           CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE (VSDP)
         </div>
         <div className="content mt-10">
@@ -23,17 +23,43 @@ const ProgramDes = () => {
             năm nhất hệ ĐH chính quy của các trường Đại học Đối tác tại Việt
             Nam.
           </p>
+          <br />
+          <h2 className="my-2 text-lg font-medium uppercase">
+            GIỚI THIỆU CHUNG VỀ VSDP
+          </h2>
+          <p>
+            Học bổng VSDP được triển khai với <b>3 tiêu chí xét duyệt</b> :
+          </p>
+          <ul className="leadng-7 list-disc pl-10">
+            <li>
+              Có hoàn cảnh kinh tế gia đình khó khăn, thu nhập gia đình không đủ
+              trang trải các khoản chi phí liên quan đến việc học tập và có nhu
+              cầu được hỗ trợ tài chính để tiếp tục việc học tập.
+            </li>
+            <li>
+              Có ý chí vượt khó vươn lên bằng con đường học vấn, năng lực học
+              tập khá giỏi, cầu tiến, có động cơ học tập mạnh mẽ để phát triển
+              bản thân.
+            </li>
+            <li>
+              Có tinh thần cộng đồng, mong muốn tạo ra tác động tích cực cho xã
+              hội để phát triển các dự án cộng đồng trong tương lai.{" "}
+            </li>
+          </ul>
+          <br />
           <p className="pb-2">
             VSDP dự kiến cung cấp khoản hỗ trợ tổng giá trị tương đương 1.000
             USD/sinh viên (bao gồm hỗ trợ tài chính và phát triển kỹ năng) cho
             80 sinh viên trong suốt 4 năm đại học. Tóm tắt chương trình như bảng
             bên dưới:
           </p>
+          <br />
           {/* Table */}
-          <table className="min-w-fit">
-            <thead className="text-left font-bold">
+          <table className="min-w-fit leading-7">
+            <thead className="text-center font-bold sm:text-left">
               <tr>
                 <th>Hỗ trợ</th>
+                <th></th>
                 <th className="pr-5">Năm 1</th>
                 <th className="pr-5">Năm 2</th>
                 <th className="pr-5">Năm 3</th>
@@ -45,6 +71,7 @@ const ProgramDes = () => {
                 <td className="text-left">
                   Chương trình Học bổng Đại học (USP)
                 </td>
+                <td></td>
                 <td className="pl-4">
                   <FaCheck />
                 </td>
@@ -54,10 +81,11 @@ const ProgramDes = () => {
                 <td className="pl-4"></td>
                 <td className="pl-4"></td>
               </tr>
-              <tr className="text-center">
+              <tr className="bg-gray-200 text-center">
                 <td className="text-left">
                   Chương trình Phát triển Thế hệ Trẻ (YDP)
                 </td>
+                <td></td>
                 <td className="pl-4"></td>
                 <td className="pl-4">
                   <FaCheck />
@@ -70,6 +98,7 @@ const ProgramDes = () => {
                 <td className="text-left">
                   Chương trình Hội thảo Thế hệ Trẻ (YWP)
                 </td>
+                <td></td>
                 <td className="pl-4">
                   <FaCheck />
                 </td>
@@ -83,10 +112,11 @@ const ProgramDes = () => {
                   <FaCheck />
                 </td>
               </tr>
-              <tr className="text-center">
+              <tr className="bg-gray-200 text-center">
                 <td className="text-left">
                   Chương trình Phát triển Hội cựu sinh viên (ADP)
                 </td>
+                <td></td>
                 <td className="pl-4"></td>
                 <td className="pl-4">
                   <FaCheck />
@@ -112,8 +142,8 @@ const ProgramDes = () => {
               </tr>
             </tbody>
           </table>
-          
-          <p className="my-2 text-lg font-medium uppercase">
+
+          <p className="my-2 pt-5 text-lg font-medium uppercase">
             CÁC CHƯƠNG TRÌNH TRONG VSDP
           </p>
           <p className="mb-2">

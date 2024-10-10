@@ -14,15 +14,15 @@ const InformationPage = () => {
   useTopPage();
 
   const textCss = {
-    heading1: "text-2xl font-medium bg-bgVH text-white leading-10 pl-6 ",
-  }
+    heading1:
+      " text-xl md:text-2xl font-medium bg-bgVH text-white pl-3 md:pl-6 py-2",
+  };
 
   return (
     <BodyLayout>
-      <div className="flex min-h-screen flex-col justify-center max-w-screen-xl pt-10 pb-20">
-        
+      <div className="flex min-h-screen max-w-screen-xl flex-col justify-center pb-20 pt-10">
         <div className="title my-20 text-center">
-          <h1 className="text-4xl font-bold uppercase text-bgVH">
+          <h1 className="text-2xl font-bold uppercase text-bgVH md:text-4xl">
             Thông tin về chương trình
           </h1>
         </div>
@@ -30,10 +30,10 @@ const InformationPage = () => {
         {/* <CollapseInfo /> */}
 
         <PartnerSchools textCss={textCss} />
-        <Criteria textCss ={textCss} />
-        <TimeLine textCss ={textCss} />
+        <Criteria textCss={textCss} />
+        <TimeLine textCss={textCss} />
         <Instruction textCss={textCss} />
-        <Notes textCss={textCss}/>
+        <Notes textCss={textCss} />
       </div>
     </BodyLayout>
   );
