@@ -1,0 +1,450 @@
+[
+  {
+    "STT": 1,
+    "Ho": "Lê Thắng",
+    "Ten": "Đức",
+    "MSSV": "B2406800",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Thú y"
+  },
+  {
+    "STT": 2,
+    "Ho": "Nguyễn Tư",
+    "Ten": "Đức",
+    "MSSV": "B2406801",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Thú y"
+  },
+  {
+    "STT": 3,
+    "Ho": "Cao Thị Thu",
+    "Ten": "Hà",
+    "MSSV": "B2406802",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Công Nghệ Thực Phẩm"
+  },
+  {
+    "STT": 4,
+    "Ho": "Nguyễn Tư",
+    "Ten": "Hạnh",
+    "MSSV": "B2406803",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Thú y"
+  },
+  {
+    "STT": 5,
+    "Ho": "Nguyễn Thái Trung",
+    "Ten": "Hiếu",
+    "MSSV": "B2406804",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Thú y"
+  },
+  {
+    "STT": 6,
+    "Ho": "Vũ Thị",
+    "Ten": "Hồng",
+    "MSSV": "B2406805",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Thú y"
+  },
+  {
+    "STT": 7,
+    "Ho": "Hồ Văn",
+    "Ten": "Hứu",
+    "MSSV": "B2406806",
+    "Truong": "Đại học Nông lâm - Đại học Huế",
+    "Nganh": "Kỹ thuật Cơ điện tử"
+  },
+  {
+    "STT": 8,
+    "Ho": "Ngô Thúy",
+    "Ten": "An",
+    "MSSV": "B2406907",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Logistics và quản lý chuỗi cung ứng"
+  },
+  {
+    "STT": 9,
+    "Ho": "Nguyễn Trần Quỳnh",
+    "Ten": "Anh",
+    "MSSV": "B2406908",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Thương Mại Điện Tử"
+  },
+  {
+    "STT": 10,
+    "Ho": "Trần Thị Lan",
+    "Ten": "Anh",
+    "MSSV": "B2406909",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Kinh tế"
+  },
+  {
+    "STT": 11,
+    "Ho": "Nguyễn Thị Ngọc",
+    "Ten": "Ánh",
+    "MSSV": "B2406910",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Quản Trị Kinh Doanh"
+  },
+  {
+    "STT": 12,
+    "Ho": "Lô Bạch",
+    "Ten": "Đẳng",
+    "MSSV": "B2406911",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Quản Trị Kinh doanh"
+  },
+  {
+    "STT": 13,
+    "Ho": "Phạm Thị Linh",
+    "Ten": "Giang",
+    "MSSV": "B2406912",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Kế Toán"
+  },
+  {
+    "STT": 14,
+    "Ho": "Pơ loong Hương",
+    "Ten": "Giang",
+    "MSSV": "B2406913",
+    "Truong": "Đại học Kinh tế - Đại học Huế",
+    "Nganh": "Marketing"
+  },
+  {
+    "STT": 15,
+    "Ho": "Trần Hữu",
+    "Ten": "An",
+    "MSSV": "B2407014",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Công nghệ thông tin"
+  },
+  {
+    "STT": 16,
+    "Ho": "Dương Nguyễn Thái",
+    "Ten": "Bảo",
+    "MSSV": "B2407015",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Kiến Trúc"
+  },
+  {
+    "STT": 17,
+    "Ho": "Hà Văn",
+    "Ten": "Bảo",
+    "MSSV": "B2407016",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Công Nghệ Thông Tin"
+  },
+  {
+    "STT": 18,
+    "Ho": "Trương Thị Minh",
+    "Ten": "Châu",
+    "MSSV": "B2407017",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Công Nghệ Thông Tin"
+  },
+  {
+    "STT": 19,
+    "Ho": "Đặng Văn",
+    "Ten": "Đạt",
+    "MSSV": "B2407018",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Lịch Sử"
+  },
+  {
+    "STT": 20,
+    "Ho": "Nguyễn Thị",
+    "Ten": "Dịu",
+    "MSSV": "B2407019",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Báo Chí"
+  },
+  {
+    "STT": 21,
+    "Ho": "H' Sa",
+    "Ten": "Du",
+    "MSSV": "B2407020",
+    "Truong": "Đại học Khoa học - Đại học Huế",
+    "Nganh": "Báo Chí"
+  },
+  {
+    "STT": 22,
+    "Ho": "Lê Thị Hồng",
+    "Ten": "Đạt",
+    "MSSV": "B2407121",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "Thẩm định giá và quản trị tài sản"
+  },
+  {
+    "STT": 23,
+    "Ho": "Chế Hoàng",
+    "Ten": "Du",
+    "MSSV": "B2407122",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "Tài Chính"
+  },
+  {
+    "STT": 24,
+    "Ho": "Võ Nguyễn Thùy",
+    "Ten": "Dương",
+    "MSSV": "B2407123",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "Quản trị dịch vụ du lịch và lữ hàn"
+  },
+  {
+    "STT": 25,
+    "Ho": "Trần Thị Mỹ",
+    "Ten": "Duyên",
+    "MSSV": "B2407124",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "An toàn thông tin"
+  },
+  {
+    "STT": 26,
+    "Ho": "Lương Thị Diệu",
+    "Ten": "Hiền",
+    "MSSV": "B2407125",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "Quản trị nhân lực"
+  },
+  {
+    "STT": 27,
+    "Ho": "Dương Minh",
+    "Ten": "Hiếu",
+    "MSSV": "B2407126",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "Kinh doanh thương mại"
+  },
+  {
+    "STT": 28,
+    "Ho": "Nguyễn Quốc",
+    "Ten": "Huy",
+    "MSSV": "B2407127",
+    "Truong": "Đại học Kinh tế TP.HCM",
+    "Nganh": "Khoa Học Máy Tính"
+  },
+  {
+    "STT": 29,
+    "Ho": "Nguyễn Thị Ngọc",
+    "Ten": "Tuyền",
+    "MSSV": "B2407228",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Quản trị kinh doanh"
+  },
+  {
+    "STT": 30,
+    "Ho": "Nguyễn Thị Lan",
+    "Ten": "Anh",
+    "MSSV": "B2407229",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Kinh doanh quốc tế"
+  },
+  {
+    "STT": 31,
+    "Ho": "Nguyễn Thị Vân",
+    "Ten": "Anh",
+    "MSSV": "B2407230",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Hoá dược"
+  },
+  {
+    "STT": 32,
+    "Ho": "Phạm Thái Bảo",
+    "Ten": "Anh",
+    "MSSV": "B2407231",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Công nghệ thông tin (CLC)"
+  },
+  {
+    "STT": 33,
+    "Ho": "Huỳnh Khánh",
+    "Ten": "Băng",
+    "MSSV": "B2407232",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Kinh doanh quốc tế"
+  },
+  {
+    "STT": 34,
+    "Ho": "Trần Vũ",
+    "Ten": "Tuấn",
+    "MSSV": "B2407233",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Khoa Học Máy Tính"
+  },
+  {
+    "STT": 35,
+    "Ho": "Nguyễn Thị Hồng",
+    "Ten": "Đào",
+    "MSSV": "B2407234",
+    "Truong": "Đại học Cần Thơ",
+    "Nganh": "Công Nghệ Sau Thu Hoạch"
+  },
+  {
+    "STT": 36,
+    "Ho": "Nguyễn Thiên",
+    "Ten": "Anh",
+    "MSSV": "B2407335",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Kỹ Thuật Địa Chất"
+  },
+  {
+    "STT": 37,
+    "Ho": "Phạm Gia",
+    "Ten": "Bảo",
+    "MSSV": "B2407336",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Nhóm ngành máy tính và công nghệ thông ttin"
+  },
+  {
+    "STT": 73,
+    "Ho": "Nguyễn Thị Thuỳ",
+    "Ten": "Dương",
+    "MSSV": "B2407337",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Công nghệ sinh học"
+  },
+  {
+    "STT": 39,
+    "Ho": "Phạm Đình",
+    "Ten": "Hải",
+    "MSSV": "B2407373",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Nhóm ngành máy tính và công nghệ thông tin"
+  },
+  {
+    "STT": 40,
+    "Ho": "Ngô Mai",
+    "Ten": "Hạnh",
+    "MSSV": "B2407339",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Khoa Toán - Tin học"
+  },
+  {
+    "STT": 41,
+    "Ho": "Ngô Mai",
+    "Ten": "Hạnh",
+    "MSSV": "B2407340",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Khoa Toán - Tin học"
+  },
+  {
+    "STT": 42,
+    "Ho": "Nguyễn Minh",
+    "Ten": "Hậu",
+    "MSSV": "B2407341",
+    "Truong": "Đại học Khoa học Tự Nhiên",
+    "Nganh": "Nhóm ngành Vật lí học, Công nghệ Vật lí điện tử và tin học, Công nghệ bán dẫn"
+  },
+  {
+    "STT": 43,
+    "Ho": "Châu Nguyễn Nguyên",
+    "Ten": "Anh",
+    "MSSV": "B2407442",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Lịch sử"
+  },
+  {
+    "STT": 44,
+    "Ho": "Trần Ngọc Vân",
+    "Ten": "Anh",
+    "MSSV": "B2407443",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Việt Nam học"
+  },
+  {
+    "STT": 45,
+    "Ho": "Trần Quố",
+    "Ten": "Anh",
+    "MSSV": "B2407444",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Giáo Dục Học"
+  },
+  {
+    "STT": 46,
+    "Ho": "Nguyễn Ngọc Kim",
+    "Ten": "Ánh",
+    "MSSV": "B2407445",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Ngôn ngữ Trung Quốc"
+  },
+  {
+    "STT": 47,
+    "Ho": "Lê Trần Hải",
+    "Ten": "Âu",
+    "MSSV": "B2407446",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Công Tác Xã Hội"
+  },
+  {
+    "STT": 48,
+    "Ho": "Nguyễn Trần Gia",
+    "Ten": "Bảo",
+    "MSSV": "B2407471",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Ngôn ngữ Pháp"
+  },
+  {
+    "STT": 49,
+    "Ho": "Phạm Quốc",
+    "Ten": "Bảo",
+    "MSSV": "B2407448",
+    "Truong": "Đại học Khoa học xã hội và Nhân Văn",
+    "Nganh": "Quản trị dịch vụ du lịch và lữ hành"
+  },
+  {
+    "STT": 50,
+    "Ho": "Bùi Tiến",
+    "Ten": "Đạt",
+    "MSSV": "B2407550",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Công nghệ kĩ thuật oto"
+  },
+  {
+    "STT": 51,
+    "Ho": "Phan Lê Thanh",
+    "Ten": "Mai",
+    "MSSV": "B2407551",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Ngành Khoa Học Dữ Liệu Và Trí Tuệ Nhân Tạo"
+  },
+  {
+    "STT": 52,
+    "Ho": "Nguyễn Thị Mai",
+    "Ten": "Trang",
+    "MSSV": "B2407552",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Công nghệ thông tin đặc thù - hợp tác doanh nghiệp"
+  },
+  {
+    "STT": 53,
+    "Ho": "Trần Hoài Ánh",
+    "Ten": "Dương",
+    "MSSV": "B2407553",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Marketing"
+  },
+  {
+    "STT": 54,
+    "Ho": "Nguyễn Hoàng Ngọc",
+    "Ten": "Hương",
+    "MSSV": "B2407554",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Quản trị khách sạn"
+  },
+  {
+    "STT": 55,
+    "Ho": "Lê Thị Ái",
+    "Ten": "Huỳnh",
+    "MSSV": "B2407555",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Kế toán"
+  },
+  {
+    "STT": 56,
+    "Ho": "Trần Thị Thanh",
+    "Ten": "Ngân",
+    "MSSV": "B2407556",
+    "Truong": "Sinh viên đến từ chương trình Merit Huế/Sài Gòn",
+    "Nganh": "Sư phạm Sinh học"
+  }
+]

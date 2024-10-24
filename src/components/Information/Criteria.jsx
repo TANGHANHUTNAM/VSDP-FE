@@ -60,7 +60,7 @@ const Criteria = ({ textCss }) => {
           </p>
           <br></br>
           <p>
-            <AiFillCaretRight className="inline-flex items-center" />
+            <AiFillCaretRight className="mb-[3px] inline-block" />
             Chương trình sẽ diễn ra <b>xuyên suốt 1 tuần</b> và được tổ chức vào
             mùa hè (tháng 7 - tháng 8). Khi tham gia chương trình bạn sẽ nhận
             được:
@@ -106,7 +106,7 @@ const Criteria = ({ textCss }) => {
           </p>
           <br />
           <b>
-            <AiFillCaretRight className="inline-flex items-center" />
+            <AiFillCaretRight className="mb-[3px] inline-block" />
             Lưu ý:
           </b>
           <ul className="list-disc pl-10 pt-3">
@@ -145,7 +145,7 @@ const Criteria = ({ textCss }) => {
         <h4 className="pb-3 pl-6 pt-8 font-bold">*ĐIỂM CỘNG</h4>
         <div className="md:pl-10">
           <p>
-            <AiFillCaret:Right className="inline-flex items-center" />
+            <AiFillCaret:Right className="mb-[3px] inline-block" />
             Nếu đạt được 1 trong các điều kiện dưới đây sẽ tạo thêm{" "}
             <b>điểm cộng cho hồ sơ của bạn </b>:
           </p>
@@ -166,7 +166,7 @@ const Criteria = ({ textCss }) => {
           </ul>
           <br />
           <b>
-            <AiFillCaretRight className="inline-flex items-center" />
+            <AiFillCaretRight className="mb-[3px] inline-block" />
             Lưu ý:{" "}
           </b>
           <ul className="list-disc pl-10 pt-2 leading-7">

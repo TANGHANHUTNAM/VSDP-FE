@@ -51,12 +51,12 @@ const HeaderNav = () => {
             {t("Header.Title.About")}
           </NavLink>
 
-          <NavLink
+          {/* <NavLink
             className="navbar-link duration-200 hover:text-green-400"
             to="/contact-us"
           >
             {t("Header.Title.Contact")}
-          </NavLink>
+          </NavLink> */}
 
           <NavLink
             className="navbar-link duration-200 hover:text-green-400"
@@ -117,12 +117,12 @@ const HeaderNav = () => {
               {t("Header.Title.About")}
             </NavLink>
 
-            <NavLink
+            {/* <NavLink
               className="navbar-link duration-200 hover:text-green-400"
               to="/contact-us"
             >
               {t("Header.Title.Contact")}
-            </NavLink>
+            </NavLink> */}
 
             <NavLink
               className="navbar-link duration-200 hover:text-green-400"

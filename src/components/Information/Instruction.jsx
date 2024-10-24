@@ -19,7 +19,7 @@ const Instruction = ({ textCss }) => {
 
         <p>
           {" "}
-          <AiFillCaretRight className="inline place-self-center" />
+          <AiFillCaretRight className="mb-[3px] inline-block" />
           <b>Đơn xét tuyển sẽ có 4 phần: </b>{" "}
         </p>
 
@@ -66,7 +66,7 @@ const Instruction = ({ textCss }) => {
         <br />
         <p>
           {" "}
-          <AiFillCaretRight className="inline-flex items-center" />
+          <AiFillCaretRight className="mb-[3px] inline-block" />
           <b>Hồ sơ đính kèm (file ảnh/file scan):</b>
         </p>
         <ul className="list-disc pl-10 pt-2 leading-7">
@@ -91,7 +91,7 @@ const Instruction = ({ textCss }) => {
         </ul>
         <br />
         <p>
-          <AiFillCaretRight className="inline-flex items-center" />
+          <AiFillCaretRight className="mb-[3px] inline-block" />
           <b>Sinh viên có thể dùng một trong những cách sau:</b>
         </p>
         <ul className="list-disc pl-10 pt-2 leading-7">
@@ -106,7 +106,7 @@ const Instruction = ({ textCss }) => {
         <br />
         <p>
           {" "}
-          <AiFillCaretRight className="inline-flex items-center" />
+          <AiFillCaretRight className="mb-[3px] inline-block" />
           <b>Link đăng ký cụ thể từng trường như sau: </b>
         </p>
         <ul className="list-disc pl-10 pt-2 leading-7">

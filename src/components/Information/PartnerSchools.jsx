@@ -13,7 +13,7 @@ const PartnerSchools = ({ textCss }) => {
 
       <div className="md:pl-8">
         <p className="pt-5">
-          <AiFillCaretRight className="inline-flex items-center" />
+          <AiFillCaretRight className="mb-1 inline-block" />
           Với VSDP 2024, VietHope hướng đến đối tượng là các bạn sinh viên năm
           nhất hệ Đại học chính quy của <b>7 trường đại học</b> sau:{" "}
         </p>
